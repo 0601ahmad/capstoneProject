@@ -4680,3 +4680,96 @@
 2022-02-14 17:59:54,518 [main] INFO logger_File - user click the continue button.
 2022-02-14 17:59:55,275 [main] INFO logger_File - Thank you for your review. It has been submitted to the webmaster for approval.
 2022-02-14 18:00:01,510 [main] INFO logger_File - scenariouser add a review to Canon EOS 5D item in Desktops tabPASSED
+2022-02-14 18:19:43,561 [main] INFO logger_File - scenariouser verify all items are present in Destops tabstarted
+2022-02-14 18:19:46,200 [main] INFO logger_File - Text verified!
+2022-02-14 18:19:46,200 [main] INFO logger_File - home page open successfully
+2022-02-14 18:19:46,269 [main] INFO logger_File - Step 1: user will see a dropdown list.
+2022-02-14 18:19:46,582 [main] INFO logger_File - step 2: user will see all items in desktop tab.
+2022-02-14 18:19:49,413 [main] INFO logger_File - scenariouser verify all items are present in Destops tabPASSED
+2022-02-14 18:19:49,449 [main] INFO logger_File - scenariouser add HP LP 3065 from Desktops tab to the cartstarted
+2022-02-14 18:19:51,163 [main] INFO logger_File - Text verified!
+2022-02-14 18:19:51,163 [main] INFO logger_File - home page open successfully
+2022-02-14 18:19:51,220 [main] INFO logger_File - Step 1: user will see a dropdown list.
+2022-02-14 18:19:51,506 [main] INFO logger_File - step 2: user will see all items in desktop tab.
+2022-02-14 18:19:51,562 [main] INFO logger_File - user click add to cart to go for next step.
+2022-02-14 18:19:53,454 [main] INFO logger_File - user first clear the path and then enter quantity.
+2022-02-14 18:19:53,518 [main] INFO logger_File - in this step user add item to the cart.
+2022-02-14 18:19:54,359 [main] INFO logger_File - Success: You have added HP LP3065 to your shopping cart!
+×
+2022-02-14 18:19:56,588 [main] INFO logger_File - scenariouser add HP LP 3065 from Desktops tab to the cartPASSED
+2022-02-14 18:19:56,609 [main] INFO logger_File - scenariouser add Canon EOS 5D from Desktops tab to the cartstarted
+2022-02-14 18:19:58,312 [main] INFO logger_File - Text verified!
+2022-02-14 18:19:58,313 [main] INFO logger_File - home page open successfully
+2022-02-14 18:19:58,356 [main] INFO logger_File - Step 1: user will see a dropdown list.
+2022-02-14 18:19:58,643 [main] INFO logger_File - step 2: user will see all items in desktop tab.
+2022-02-14 18:19:58,689 [main] INFO logger_File - user click on add to cart to go for next step.
+2022-02-14 18:19:59,384 [main] INFO logger_File - user select the color.
+2022-02-14 18:20:00,495 [main] INFO logger_File - user first clear the path and then enter quantity.
+2022-02-14 18:20:00,538 [main] INFO logger_File - in this step user add item to the cart.
+2022-02-14 18:20:01,378 [main] INFO logger_File - Success: You have added Canon EOS 5D Camera to your shopping cart!
+×
+2022-02-14 18:20:03,584 [main] INFO logger_File - scenariouser add Canon EOS 5D from Desktops tab to the cartPASSED
+2022-02-14 18:20:03,609 [main] INFO logger_File - scenariouser add a review to Canon EOS 5D item in Desktops tabstarted
+2022-02-14 18:20:05,855 [main] INFO logger_File - Text verified!
+2022-02-14 18:20:05,855 [main] INFO logger_File - home page open successfully
+2022-02-14 18:20:05,904 [main] INFO logger_File - Step 1: user will see a dropdown list.
+2022-02-14 18:20:06,216 [main] INFO logger_File - step 2: user will see all items in desktop tab.
+2022-02-14 18:20:07,806 [main] INFO logger_File - user click on camera EOS 5D.
+2022-02-14 18:20:07,861 [main] INFO logger_File - user click on reveiw.
+2022-02-14 18:20:13,933 [main] INFO logger_File - user enter the name and comment.
+2022-02-14 18:20:14,000 [main] INFO logger_File - user select the rating.
+2022-02-14 18:20:14,071 [main] INFO logger_File - user click the continue button.
+2022-02-14 18:20:14,787 [main] INFO logger_File - Thank you for your review. It has been submitted to the webmaster for approval.
+2022-02-14 18:20:17,022 [main] INFO logger_File - scenariouser add a review to Canon EOS 5D item in Desktops tabPASSED
+2022-02-14 18:20:41,572 [main] INFO logger_File - scenarioUser verify currency values changestarted
+2022-02-14 18:20:44,559 [main] INFO logger_File - home page open successfully
+2022-02-14 18:20:44,699 [main] INFO logger_File - User click on Currency Button.
+2022-02-14 18:20:44,768 [main] INFO logger_File - user select the Euro option from the list.
+2022-02-14 18:20:44,928 [main] INFO logger_File - currency change to Euro sign.
+2022-02-14 18:20:45,104 [main] INFO logger_File - scenarioUser verify currency values changePASSED
+2022-02-14 18:20:45,157 [main] INFO logger_File - scenarioUser empty Shopping cart message displaysstarted
+2022-02-14 18:20:47,232 [main] INFO logger_File - home page open successfully
+2022-02-14 18:20:47,287 [main] INFO logger_File - user now click on shopping cart.
+2022-02-14 18:20:47,580 [main] INFO logger_File - shoppting cart is empty.
+2022-02-14 18:20:47,778 [main] INFO logger_File - scenarioUser empty Shopping cart message displaysPASSED
+2022-02-15 14:55:04,477 [main] INFO logger_File - scenarioUser verify currency values changestarted
+2022-02-15 14:55:08,264 [main] INFO logger_File - home page open successfully
+2022-02-15 14:55:08,454 [main] INFO logger_File - User click on Currency Button.
+2022-02-15 14:55:08,512 [main] INFO logger_File - user select the Euro option from the list.
+2022-02-15 14:55:08,666 [main] INFO logger_File - currency change to Euro sign.
+2022-02-15 14:55:08,841 [main] INFO logger_File - scenarioUser verify currency values changePASSED
+2022-02-15 14:55:08,871 [main] INFO logger_File - scenarioUser empty Shopping cart message displaysstarted
+2022-02-15 14:55:10,954 [main] INFO logger_File - home page open successfully
+2022-02-15 14:55:11,005 [main] INFO logger_File - user now click on shopping cart.
+2022-02-15 14:55:11,336 [main] INFO logger_File - shoppting cart is empty.
+2022-02-15 14:55:11,480 [main] INFO logger_File - scenarioUser empty Shopping cart message displaysPASSED
+2022-02-15 14:57:10,717 [main] INFO logger_File - scenarioUser verify currency values changestarted
+2022-02-15 14:57:11,090 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.80 (since Google Chrome 98 is installed in your machine)
+2022-02-15 14:57:11,118 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.80\chromedriver.exe
+2022-02-15 14:57:11,323 [main] INFO logger_File - scenarioUser verify currency values changestarted
+2022-02-15 14:57:11,667 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.80 (since Google Chrome 98 is installed in your machine)
+2022-02-15 14:57:11,686 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.80\chromedriver.exe
+2022-02-15 14:57:14,558 [main] INFO logger_File - home page open successfully
+2022-02-15 14:57:14,719 [main] INFO logger_File - User click on Currency Button.
+2022-02-15 14:57:14,780 [main] INFO logger_File - user select the Euro option from the list.
+2022-02-15 14:57:14,903 [main] INFO logger_File - home page open successfully
+2022-02-15 14:57:14,991 [main] INFO logger_File - currency change to Euro sign.
+2022-02-15 14:57:15,145 [main] INFO logger_File - User click on Currency Button.
+2022-02-15 14:57:15,233 [main] INFO logger_File - scenarioUser verify currency values changePASSED
+2022-02-15 14:57:15,247 [main] INFO logger_File - user select the Euro option from the list.
+2022-02-15 14:57:15,320 [main] INFO logger_File - scenarioUser empty Shopping cart message displaysstarted
+2022-02-15 14:57:15,330 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.80 (since Google Chrome 98 is installed in your machine)
+2022-02-15 14:57:15,341 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.80\chromedriver.exe
+2022-02-15 14:57:15,582 [main] INFO logger_File - currency change to Euro sign.
+2022-02-15 14:57:15,834 [main] INFO logger_File - scenarioUser verify currency values changePASSED
+2022-02-15 14:57:15,912 [main] INFO logger_File - scenarioUser empty Shopping cart message displaysstarted
+2022-02-15 14:57:15,937 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.80 (since Google Chrome 98 is installed in your machine)
+2022-02-15 14:57:15,957 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.80\chromedriver.exe
+2022-02-15 14:57:18,247 [main] INFO logger_File - home page open successfully
+2022-02-15 14:57:18,311 [main] INFO logger_File - user now click on shopping cart.
+2022-02-15 14:57:18,573 [main] INFO logger_File - home page open successfully
+2022-02-15 14:57:18,625 [main] INFO logger_File - user now click on shopping cart.
+2022-02-15 14:57:18,666 [main] INFO logger_File - shoppting cart is empty.
+2022-02-15 14:57:18,830 [main] INFO logger_File - scenarioUser empty Shopping cart message displaysPASSED
+2022-02-15 14:57:19,011 [main] INFO logger_File - shoppting cart is empty.
+2022-02-15 14:57:19,190 [main] INFO logger_File - scenarioUser empty Shopping cart message displaysPASSED

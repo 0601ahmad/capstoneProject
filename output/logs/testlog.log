@@ -4680,3 +4680,96 @@
 2022-02-14 17:59:54,518 - logger_File -INFO - user click the continue button.
 2022-02-14 17:59:55,275 - logger_File -INFO - Thank you for your review. It has been submitted to the webmaster for approval.
 2022-02-14 18:00:01,510 - logger_File -INFO - scenariouser add a review to Canon EOS 5D item in Desktops tabPASSED
+2022-02-14 18:19:43,561 - logger_File -INFO - scenariouser verify all items are present in Destops tabstarted
+2022-02-14 18:19:46,200 - logger_File -INFO - Text verified!
+2022-02-14 18:19:46,200 - logger_File -INFO - home page open successfully
+2022-02-14 18:19:46,269 - logger_File -INFO - Step 1: user will see a dropdown list.
+2022-02-14 18:19:46,582 - logger_File -INFO - step 2: user will see all items in desktop tab.
+2022-02-14 18:19:49,413 - logger_File -INFO - scenariouser verify all items are present in Destops tabPASSED
+2022-02-14 18:19:49,449 - logger_File -INFO - scenariouser add HP LP 3065 from Desktops tab to the cartstarted
+2022-02-14 18:19:51,163 - logger_File -INFO - Text verified!
+2022-02-14 18:19:51,163 - logger_File -INFO - home page open successfully
+2022-02-14 18:19:51,220 - logger_File -INFO - Step 1: user will see a dropdown list.
+2022-02-14 18:19:51,506 - logger_File -INFO - step 2: user will see all items in desktop tab.
+2022-02-14 18:19:51,562 - logger_File -INFO - user click add to cart to go for next step.
+2022-02-14 18:19:53,454 - logger_File -INFO - user first clear the path and then enter quantity.
+2022-02-14 18:19:53,518 - logger_File -INFO - in this step user add item to the cart.
+2022-02-14 18:19:54,359 - logger_File -INFO - Success: You have added HP LP3065 to your shopping cart!
+×
+2022-02-14 18:19:56,588 - logger_File -INFO - scenariouser add HP LP 3065 from Desktops tab to the cartPASSED
+2022-02-14 18:19:56,609 - logger_File -INFO - scenariouser add Canon EOS 5D from Desktops tab to the cartstarted
+2022-02-14 18:19:58,312 - logger_File -INFO - Text verified!
+2022-02-14 18:19:58,313 - logger_File -INFO - home page open successfully
+2022-02-14 18:19:58,356 - logger_File -INFO - Step 1: user will see a dropdown list.
+2022-02-14 18:19:58,643 - logger_File -INFO - step 2: user will see all items in desktop tab.
+2022-02-14 18:19:58,689 - logger_File -INFO - user click on add to cart to go for next step.
+2022-02-14 18:19:59,384 - logger_File -INFO - user select the color.
+2022-02-14 18:20:00,495 - logger_File -INFO - user first clear the path and then enter quantity.
+2022-02-14 18:20:00,538 - logger_File -INFO - in this step user add item to the cart.
+2022-02-14 18:20:01,378 - logger_File -INFO - Success: You have added Canon EOS 5D Camera to your shopping cart!
+×
+2022-02-14 18:20:03,584 - logger_File -INFO - scenariouser add Canon EOS 5D from Desktops tab to the cartPASSED
+2022-02-14 18:20:03,609 - logger_File -INFO - scenariouser add a review to Canon EOS 5D item in Desktops tabstarted
+2022-02-14 18:20:05,855 - logger_File -INFO - Text verified!
+2022-02-14 18:20:05,855 - logger_File -INFO - home page open successfully
+2022-02-14 18:20:05,904 - logger_File -INFO - Step 1: user will see a dropdown list.
+2022-02-14 18:20:06,216 - logger_File -INFO - step 2: user will see all items in desktop tab.
+2022-02-14 18:20:07,806 - logger_File -INFO - user click on camera EOS 5D.
+2022-02-14 18:20:07,861 - logger_File -INFO - user click on reveiw.
+2022-02-14 18:20:13,933 - logger_File -INFO - user enter the name and comment.
+2022-02-14 18:20:14,000 - logger_File -INFO - user select the rating.
+2022-02-14 18:20:14,071 - logger_File -INFO - user click the continue button.
+2022-02-14 18:20:14,787 - logger_File -INFO - Thank you for your review. It has been submitted to the webmaster for approval.
+2022-02-14 18:20:17,022 - logger_File -INFO - scenariouser add a review to Canon EOS 5D item in Desktops tabPASSED
+2022-02-14 18:20:41,572 - logger_File -INFO - scenarioUser verify currency values changestarted
+2022-02-14 18:20:44,559 - logger_File -INFO - home page open successfully
+2022-02-14 18:20:44,699 - logger_File -INFO - User click on Currency Button.
+2022-02-14 18:20:44,768 - logger_File -INFO - user select the Euro option from the list.
+2022-02-14 18:20:44,928 - logger_File -INFO - currency change to Euro sign.
+2022-02-14 18:20:45,104 - logger_File -INFO - scenarioUser verify currency values changePASSED
+2022-02-14 18:20:45,157 - logger_File -INFO - scenarioUser empty Shopping cart message displaysstarted
+2022-02-14 18:20:47,232 - logger_File -INFO - home page open successfully
+2022-02-14 18:20:47,287 - logger_File -INFO - user now click on shopping cart.
+2022-02-14 18:20:47,580 - logger_File -INFO - shoppting cart is empty.
+2022-02-14 18:20:47,778 - logger_File -INFO - scenarioUser empty Shopping cart message displaysPASSED
+2022-02-15 14:55:04,477 - logger_File -INFO - scenarioUser verify currency values changestarted
+2022-02-15 14:55:08,264 - logger_File -INFO - home page open successfully
+2022-02-15 14:55:08,454 - logger_File -INFO - User click on Currency Button.
+2022-02-15 14:55:08,512 - logger_File -INFO - user select the Euro option from the list.
+2022-02-15 14:55:08,666 - logger_File -INFO - currency change to Euro sign.
+2022-02-15 14:55:08,841 - logger_File -INFO - scenarioUser verify currency values changePASSED
+2022-02-15 14:55:08,871 - logger_File -INFO - scenarioUser empty Shopping cart message displaysstarted
+2022-02-15 14:55:10,954 - logger_File -INFO - home page open successfully
+2022-02-15 14:55:11,005 - logger_File -INFO - user now click on shopping cart.
+2022-02-15 14:55:11,336 - logger_File -INFO - shoppting cart is empty.
+2022-02-15 14:55:11,480 - logger_File -INFO - scenarioUser empty Shopping cart message displaysPASSED
+2022-02-15 14:57:10,717 - logger_File -INFO - scenarioUser verify currency values changestarted
+2022-02-15 14:57:11,090 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.80 (since Google Chrome 98 is installed in your machine)
+2022-02-15 14:57:11,118 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.80\chromedriver.exe
+2022-02-15 14:57:11,323 - logger_File -INFO - scenarioUser verify currency values changestarted
+2022-02-15 14:57:11,667 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.80 (since Google Chrome 98 is installed in your machine)
+2022-02-15 14:57:11,686 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.80\chromedriver.exe
+2022-02-15 14:57:14,558 - logger_File -INFO - home page open successfully
+2022-02-15 14:57:14,719 - logger_File -INFO - User click on Currency Button.
+2022-02-15 14:57:14,780 - logger_File -INFO - user select the Euro option from the list.
+2022-02-15 14:57:14,903 - logger_File -INFO - home page open successfully
+2022-02-15 14:57:14,991 - logger_File -INFO - currency change to Euro sign.
+2022-02-15 14:57:15,145 - logger_File -INFO - User click on Currency Button.
+2022-02-15 14:57:15,233 - logger_File -INFO - scenarioUser verify currency values changePASSED
+2022-02-15 14:57:15,247 - logger_File -INFO - user select the Euro option from the list.
+2022-02-15 14:57:15,320 - logger_File -INFO - scenarioUser empty Shopping cart message displaysstarted
+2022-02-15 14:57:15,330 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.80 (since Google Chrome 98 is installed in your machine)
+2022-02-15 14:57:15,341 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.80\chromedriver.exe
+2022-02-15 14:57:15,582 - logger_File -INFO - currency change to Euro sign.
+2022-02-15 14:57:15,834 - logger_File -INFO - scenarioUser verify currency values changePASSED
+2022-02-15 14:57:15,912 - logger_File -INFO - scenarioUser empty Shopping cart message displaysstarted
+2022-02-15 14:57:15,937 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.80 (since Google Chrome 98 is installed in your machine)
+2022-02-15 14:57:15,957 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.80\chromedriver.exe
+2022-02-15 14:57:18,247 - logger_File -INFO - home page open successfully
+2022-02-15 14:57:18,311 - logger_File -INFO - user now click on shopping cart.
+2022-02-15 14:57:18,573 - logger_File -INFO - home page open successfully
+2022-02-15 14:57:18,625 - logger_File -INFO - user now click on shopping cart.
+2022-02-15 14:57:18,666 - logger_File -INFO - shoppting cart is empty.
+2022-02-15 14:57:18,830 - logger_File -INFO - scenarioUser empty Shopping cart message displaysPASSED
+2022-02-15 14:57:19,011 - logger_File -INFO - shoppting cart is empty.
+2022-02-15 14:57:19,190 - logger_File -INFO - scenarioUser empty Shopping cart message displaysPASSED
