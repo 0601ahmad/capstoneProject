@@ -16,7 +16,7 @@ import io.cucumber.junit.CucumberOptions;
 	features = "classpath:featuresFolder",
 	glue = "stepOfDefinitions",
 	tags = "@desktop",
-	dryRun = true,
+	dryRun = false,
 	strict = true,
 	monochrome = true,
 	plugin = {
