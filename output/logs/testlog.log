@@ -4773,3 +4773,18 @@
 2022-02-15 14:57:18,830 - logger_File -INFO - scenarioUser empty Shopping cart message displaysPASSED
 2022-02-15 14:57:19,011 - logger_File -INFO - shoppting cart is empty.
 2022-02-15 14:57:19,190 - logger_File -INFO - scenarioUser empty Shopping cart message displaysPASSED
+2022-02-15 15:00:54,231 - logger_File -INFO - scenarioUser verify currency values changestarted
+2022-02-15 15:00:54,447 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.80 (since Google Chrome 98 is installed in your machine)
+2022-02-15 15:00:54,462 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.80\chromedriver.exe
+2022-02-15 15:00:56,851 - logger_File -INFO - home page open successfully
+2022-02-15 15:00:56,972 - logger_File -INFO - User click on Currency Button.
+2022-02-15 15:00:57,027 - logger_File -INFO - user select the Euro option from the list.
+2022-02-15 15:00:57,226 - logger_File -INFO - currency change to Euro sign.
+2022-02-15 15:00:57,404 - logger_File -INFO - scenarioUser verify currency values changePASSED
+2022-02-15 15:00:57,434 - logger_File -INFO - scenarioUser empty Shopping cart message displaysstarted
+2022-02-15 15:00:57,439 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.80 (since Google Chrome 98 is installed in your machine)
+2022-02-15 15:00:57,448 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.80\chromedriver.exe
+2022-02-15 15:00:59,436 - logger_File -INFO - home page open successfully
+2022-02-15 15:00:59,489 - logger_File -INFO - user now click on shopping cart.
+2022-02-15 15:00:59,794 - logger_File -INFO - shoppting cart is empty.
+2022-02-15 15:00:59,965 - logger_File -INFO - scenarioUser empty Shopping cart message displaysPASSED
